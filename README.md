@@ -8,5 +8,5 @@
 
 Цель проекта - создание удобного и эффективного инструмента для изучения Data science по методу Zettelkasten.
 
-![plot](C:\Users\Danil\OneDrive\Документы\GitHub\DS\Obsidian pic.png)
+![Alt text](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F1a%2FZettelkasten_paper_schematic.png%2F440px-Zettelkasten_paper_schematic.png&lr=213&pos=0&rpt=simage&text=zettelkasten)
 
