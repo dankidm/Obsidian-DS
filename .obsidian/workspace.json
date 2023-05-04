@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "65d501ac1b465e02",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4353749b60176ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b2fab6269f5250b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bebdca42f65a568",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c96917e521924c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "026fead9659e6978",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbfa56dcdd6cf651",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d35d968808ac17c8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5dcfa66a92fbac21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eef294e62511ddfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c42fd3d9b1ea69d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3a4d776f8688a8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7a44ebed7c3360f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9e419ea6700481a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b6862defc630863e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "1b2fab6269f5250b",
+  "lastOpenFiles": [
+    "2023-05-04.md",
+    "Тригонометрические функции на единичной окружности.md",
+    "Ордината.md",
+    "Абсцисса.md",
+    "Единичная окружность.md",
+    "Линейная алгебра/Система координат.md",
+    "Без названия.md",
+    "Тригонометрические функции.md",
+    "Тангенс.md",
+    "Косинус.md",
+    "Угол.md",
+    "Синус.md",
+    "Статистика/Дерево вероятностей.md",
+    "Линейная алгебра/Условие коллинеарности.md",
+    "Статистика/Винсоризация.md",
+    "Линейная алгебра/Произведение вектора на скаляр.md",
+    "Линейная алгебра/Деление вектора на скаляр.md",
+    "Линейная алгебра/Противоположный вектор.md",
+    "Линейная алгебра/Коллинеарные векторы.md",
+    "Линейная алгебра/Сложение векторов.md",
+    "Линейная алгебра/Скалярные величины.md",
+    "Линейная алгебра/Свойство коммутативности.md",
+    "Линейная алгебра/Свойство ассоциативности.md",
+    "Линейная алгебра/Равенство векторов.md",
+    "Линейная алгебра/Координаты вектора.md",
+    "Линейная алгебра/Длина вектора.md",
+    "Линейная алгебра",
+    "Статистика/Основы статистики",
+    "Статистика/Распределения",
+    "Статистика",
+    "Статистика/Pasted image 20230430114118.png",
+    "Статистика/Pasted image 20230430114033.png",
+    "Статистика/Pasted image 20230430114018.png",
+    "Статистика/Pasted image 20230424114623.png",
+    "Статистика/Pasted image 20230424112513.png",
+    "Статистика/Pasted image 20230424112912.png",
+    "Статистика/Pasted image 20230424114050.png"
+  ]
+}
